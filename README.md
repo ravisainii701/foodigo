@@ -1,4 +1,4 @@
-🍔 Foodigo: Real-Time Food Ordering & Delivery Platform
+🍔 Foodigo: Real-Time Food Ordering & Delivery Platform 
 📌 Overview
 Foodigo is a full-stack MERN food ordering and delivery platform that connects customers, shop owners, and delivery partners in one system. Customers can browse shops by city, order food, and track deliveries live on a map, while shop owners manage menus and orders and delivery boys accept and fulfill deliveries in real time.
 
