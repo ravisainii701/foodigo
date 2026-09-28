@@ -1,4 +1,4 @@
-🍔 Foodigo: Real-Time Food Ordering & Delivery Platform 
+🍔 Foodigo: Real-Time Food Ordering & Delivery Platform
 📌 Overview
 Foodigo is a full-stack MERN food ordering and delivery platform that connects customers, shop owners, and delivery partners in one system. Customers can browse shops by city, order food, and track deliveries live on a map, while shop owners manage menus and orders and delivery boys accept and fulfill deliveries in real time.
 
@@ -13,6 +13,7 @@ Foodigo is a full-stack MERN food ordering and delivery platform that connects c
 → Integrated online payments (Razorpay) alongside Cash on Delivery give customers flexibility and reduce checkout friction.
 
 🏗 Project Structure
+```text
 📂 Foodigo
 ├── 📂 backend  (Node.js, Express & MongoDB API)
 │   ├── index.js  (Express server entry point & Socket.IO setup)
@@ -107,6 +108,7 @@ Foodigo is a full-stack MERN food ordering and delivery platform that connects c
 │   │   │   ├── mapSlice.js  (Map/location state)
 │
 └── 📖 README.md  (Project documentation)
+```
 
 🚀 Features
 ✅ Multi-Role Platform: Separate experiences for Customers, Shop Owners, and Delivery Boys.
